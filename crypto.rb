@@ -26,7 +26,7 @@ puts "la valeur minimum: #{tab.min} qui correspond a #{@my_hash[tab.min]}"
 puts "la valeur maximum: #{tab.max}"
 end
 
-
+biggervalue
 
 
 def coin
