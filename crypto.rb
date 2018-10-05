@@ -44,6 +44,8 @@ tab=[]
 	puts tab.size
 end
 
+coin
+
 
 def moinque
 tab=[]
@@ -62,7 +64,7 @@ tab2=[]
 		puts tab2.size
 end
 
-
+moinque
 
 def moinque2
 tab=[]
@@ -81,6 +83,6 @@ tab2=[]
 end
 
 
-
+moinque2
 
 
